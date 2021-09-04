@@ -786,7 +786,15 @@ input::placeholder {
     .title {
         /* text-align: center; */
         padding-right: 22px;
+        text-align: center;
+        max-width: 589px;
+        width: 100%;
     }
+
+    .title h1 {
+        padding-bottom: 50px;
+    }
+    
     .header__title{
         padding-bottom: 0px;
     }
@@ -875,7 +883,6 @@ input::placeholder {
 
     .title h1 {
        font-size: 25px;
-       width: 320px;
        padding-bottom: 50px;
     }
 
@@ -910,8 +917,6 @@ input::placeholder {
     .title h1 {
        font-size: 22px;
        line-height: 2;
-       width: 250px;
-     
     }
 
     .works__subtitle {
