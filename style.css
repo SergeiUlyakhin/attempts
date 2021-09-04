@@ -787,14 +787,13 @@ input::placeholder {
         /* text-align: center; */
         padding-right: 22px;
         text-align: center;
-        max-width: 589px;
         width: 100%;
     }
 
     .title h1 {
         padding-bottom: 50px;
     }
-    
+
     .header__title{
         padding-bottom: 0px;
     }
